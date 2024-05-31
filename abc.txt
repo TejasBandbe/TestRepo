@@ -1,1 +1,2 @@
 This file is in master branch in first commit.
+This second line is pushed from feature1 branch second commit.
