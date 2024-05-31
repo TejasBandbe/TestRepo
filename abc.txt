@@ -1,2 +1,3 @@
 This file is in master branch in first commit.
 This second line is pushed from feature1 branch second commit.
+This thrid line will create conflict with feature3.
